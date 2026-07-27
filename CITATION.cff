@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "R analysis code for behavioral economic factors associated with treatment adherence among patients with type 2 diabetes"
+message: "If you use this code, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Jiahao
+  - family-names: Li
+    given-names: Na
+version: "0.1.0"
+date-released: "2026-07-27"

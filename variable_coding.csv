@@ -1,0 +1,13 @@
+﻿variable,role,coding,interpretation_or_reference
+age_group_trend,Ordinal trend in linear models,1=<45 years; 2=45-59 years; 3=>=60 years,Per one-category increase
+education_trend,Ordinal trend in linear models,1=Primary school or below; 2=Junior high school; 3=High school/technical secondary school; 4=College or above,Per one-category increase
+income_trend,Ordinal trend in linear models,"1=<3,000 CNY; 2=3,000-4,999 CNY; 3=5,000-7,999 CNY; 4=>=8,000 CNY",Per one-category increase
+duration_trend,Ordinal trend in linear models,1=<=5 years; 2=6-10 years; 3=11-15 years; 4=16-20 years; 5=>20 years,Per one-category increase
+residence_f,Categorical predictor,1=Rural; 2=Urban,Reference: Rural
+smoking_f,Categorical predictor,1=Current smoker; 2=Never smoker; 3=Former smoker,Reference: Current smoker
+alcohol_f,Categorical predictor,1=Current drinker; 2=Non-drinker; 3=Former drinker,Reference: Current drinker
+occupation_f,Categorical predictor,1=Employed; 2=Retired; 3=Self-employed; 4=Unemployed,Reference: Retired
+living_f,Categorical predictor,1=Living alone; 2=Living with spouse and children; 3=Living with spouse; 4=Living with children,Reference: Living alone
+insulin_f,Categorical predictor,1=Yes; 2=No,Reference: Yes / insulin therapy
+sex_f,Categorical predictor in S4,1=Male; 2=Female,Reference: Male
+adherence_good_ge40,Sensitivity outcome,1=adherence_total >= 40; 0=adherence_total < 40,Event=1

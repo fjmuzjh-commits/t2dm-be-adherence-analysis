@@ -1,0 +1,19 @@
+# Individual-level participant data: do not commit
+input/T2DM_SCI_final_data_v1.2.csv
+input/*.csv
+!input/T2DM_SCI_final_data_v1.2_TEMPLATE_HEADER_ONLY.csv
+!input/README_controlled_access.md
+
+# Model objects may contain fitted-object environments
+output/model_objects/
+*.rds
+
+# Local R/session artifacts
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS/editor artifacts
+Thumbs.db
+.DS_Store
+~$*

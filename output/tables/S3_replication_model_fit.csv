@@ -1,0 +1,2 @@
+﻿"model","N","predictor_parameters","R_squared","adjusted_R_squared","F_statistic","numerator_df","denominator_df","model_p_value","residual_standard_error","residual_df","AIC","BIC","log_likelihood","Durbin_Watson","maximum_coefficient_VIF","condition_number"
+"Reproduction linear model excluding residence",232,21,0.774822677827107,0.752304945609818,34.4094454250678,21,210,0.0000000000000000000000000000000000000000000000000000000209379396753504,4.33596224380913,210,1361.93516651859,1441.21012606691,-657.967583259293,1.80774871886599,4.60136726493645,6.30104228766182

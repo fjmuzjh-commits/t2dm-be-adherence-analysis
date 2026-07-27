@@ -1,0 +1,7 @@
+﻿"variable","raw_variable","N","missing","mean","SD","minimum","maximum","theoretical_range","mean_SD","observed_range"
+"Treatment adherence total","adherence_total",232,0,43.551724137931,8.71217968917984,21,59,"20-60","43.55 ± 8.71","21.00-59.00"
+"Medication adherence","medication_adherence",232,0,9.71551724137931,1.87397780266903,4,12,"4-12","9.72 ± 1.87","4.00-12.00"
+"Dietary adherence","diet_adherence",232,0,8.79741379310345,2.04227872081373,4,12,"4-12","8.80 ± 2.04","4.00-12.00"
+"Exercise adherence","exercise_adherence",232,0,8.74137931034483,2.27396592608377,4,12,"4-12","8.74 ± 2.27","4.00-12.00"
+"Self-monitoring adherence","monitoring_adherence",232,0,8.16379310344828,2.44929167432673,4,12,"4-12","8.16 ± 2.45","4.00-12.00"
+"Follow-up adherence","followup_adherence",232,0,8.13362068965517,2.80603690476659,4,12,"4-12","8.13 ± 2.81","4.00-12.00"

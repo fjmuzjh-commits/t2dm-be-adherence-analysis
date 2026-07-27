@@ -1,0 +1,28 @@
+
+Call:
+glm(formula = logistic_formula, family = binomial(link = "logit"), 
+    data = dat)
+
+Coefficients:
+                        Estimate Std. Error z value  Pr(>|z|)    
+(Intercept)              -0.4548     2.3723  -0.192   0.84798    
+representativeness_mean   0.1131     0.4106   0.276   0.78291    
+availability_mean        -0.7716     0.3777  -2.043   0.04107 *  
+overconfidence_mean      -0.6786     0.3047  -2.227   0.02594 *  
+time_preference_mean     -0.8798     0.3407  -2.582   0.00981 ** 
+social_preference_mean    1.7348     0.4199   4.131 0.0000361 ***
+risk_preference_mean      0.1204     0.1946   0.619   0.53613    
+age_group_trend           0.8450     0.5053   1.672   0.09449 .  
+sex_fFemale               0.1948     0.5917   0.329   0.74194    
+insulin_fNo              -1.3940     0.6217  -2.242   0.02496 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+(Dispersion parameter for binomial family taken to be 1)
+
+    Null deviance: 298.902  on 231  degrees of freedom
+Residual deviance:  89.274  on 222  degrees of freedom
+AIC: 109.27
+
+Number of Fisher Scoring iterations: 7
+

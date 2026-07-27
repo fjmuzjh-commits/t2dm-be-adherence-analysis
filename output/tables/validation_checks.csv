@@ -1,0 +1,21 @@
+﻿check,observed,expected,tolerance,status
+N,232,232,,PASS
+Table 4 R-squared,0.775168987977251,0.775,0.001,PASS
+Table 4 adjusted R-squared,0.751502565659067,0.752,0.001,PASS
+Table 4 F statistic,32.7539573812832,32.754,0.001,PASS
+Table 4 numerator df,22,22,,PASS
+Table 4 denominator df,209,209,,PASS
+S3 F statistic,34.4094454250678,34.409,0.001,PASS
+S3 numerator df,21,21,,PASS
+S3 denominator df,210,210,,PASS
+S4 events,152,152,,PASS
+S4 non-events,80,80,,PASS
+S4 McFadden R-squared,0.701328465126836,0.701,0.001,PASS
+S4 LR chi-square,209.628621547444,209.629,0.001,PASS
+S4 AIC,109.273579020634,109.274,0.001,PASS
+Primary linear model direction: Availability bias,B=-0.98495916; p=0.027119901,negative; p<0.05,,PASS
+Primary linear model direction: Overconfidence,B=-1.0711007; p=0.0090249658,negative; p<0.05,,PASS
+Primary linear model direction: Time preference,B=-2.3952948; p=6.0049237e-08,negative; p<0.05,,PASS
+Primary linear model direction: Social preference,B=1.6900489; p=0.00012426352,positive; p<0.05,,PASS
+Primary linear model direction: Representativeness bias,B=-0.74209866; p=0.066106165,not statistically significant,,PASS
+Primary linear model direction: Risk preference,B=-0.082321293; p=0.67357834,not statistically significant,,PASS

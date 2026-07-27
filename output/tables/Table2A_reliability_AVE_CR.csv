@@ -1,0 +1,26 @@
+﻿"section","instrument","dimension","number_of_items","raw_alpha","standardized_alpha","average_interitem_correlation","KMO","Bartlett_chisq","Bartlett_df","Bartlett_p_value","AVE","CR","loading_min","loading_max"
+"Cronbach alpha","Behavioral economics questionnaire","Representativeness bias",3,0.833808835463583,0.835554093395081,0.628760057883767,,,,,,,,
+"Cronbach alpha","Behavioral economics questionnaire","Availability bias",3,0.856769073523449,0.859457621024275,0.67088271536273,,,,,,,,
+"Cronbach alpha","Behavioral economics questionnaire","Overconfidence",3,0.864097550712441,0.86372020494817,0.678726726563598,,,,,,,,
+"Cronbach alpha","Behavioral economics questionnaire","Time preference",3,0.919687234972116,0.919643928173668,0.792310077225198,,,,,,,,
+"Cronbach alpha","Behavioral economics questionnaire","Social preference",3,0.810147093642713,0.811503694883345,0.589330464704417,,,,,,,,
+"Cronbach alpha","Behavioral economics questionnaire","Risk preference",2,0.887447401940982,0.887537402175916,0.797813251350554,,,,,,,,
+"Cronbach alpha","Treatment adherence questionnaire","Total scale",20,0.90681429830703,0.905887605790469,0.324908028697205,,,,,,,,
+"Cronbach alpha","Treatment adherence questionnaire","Medication adherence",4,0.721982529595545,0.71600997133844,0.38662070017062,,,,,,,,
+"Cronbach alpha","Treatment adherence questionnaire","Dietary adherence",4,0.643143781288166,0.640579566498233,0.308228597791088,,,,,,,,
+"Cronbach alpha","Treatment adherence questionnaire","Exercise adherence",4,0.814193610469592,0.815739782433345,0.525341284369393,,,,,,,,
+"Cronbach alpha","Treatment adherence questionnaire","Self-monitoring adherence",4,0.847270088128564,0.849045641411963,0.584394810202895,,,,,,,,
+"Cronbach alpha","Treatment adherence questionnaire","Follow-up adherence",4,0.902378892904398,0.903752649929591,0.701267293778041,,,,,,,,
+"KMO and Bartlett","Behavioral economics questionnaire","Total item set",17,,,,0.885496057657313,2609.04050306657,136,0,,,,
+"KMO and Bartlett","Treatment adherence questionnaire","Total item set",20,,,,0.884039087401198,2240.55228856794,190,0,,,,
+"AVE and CR","Behavioral economics questionnaire","Representativeness",3,,,,,,,,0.677809744307274,0.863156205660072,0.799337208119431,0.84790392562731
+"AVE and CR","Behavioral economics questionnaire","Availability",3,,,,,,,,0.740048735574376,0.894860214789738,0.815281533170911,0.929639673854287
+"AVE and CR","Behavioral economics questionnaire","Overconfidence",3,,,,,,,,0.730015890764712,0.889482003828789,0.744974612909845,0.915353902320187
+"AVE and CR","Behavioral economics questionnaire","TimePreference",3,,,,,,,,0.831991516251989,0.93688922176875,0.876623519569994,0.931272840692439
+"AVE and CR","Behavioral economics questionnaire","SocialPreference",3,,,,,,,,0.661395362860153,0.852577266774016,0.676383513592398,0.875764387384771
+"AVE and CR","Behavioral economics questionnaire","RiskPreference",2,,,,,,,,0.830468380430168,0.907024376938822,0.84990382671086,0.96881383464656
+"AVE and CR","Treatment adherence questionnaire","Medication",4,,,,,,,,0.570327268468133,0.83895318153587,0.610602501288474,0.881003085507889
+"AVE and CR","Treatment adherence questionnaire","Diet",4,,,,,,,,0.461187650732105,0.770185961095626,0.572466588137554,0.78927243127325
+"AVE and CR","Treatment adherence questionnaire","Exercise",4,,,,,,,,0.660578740177471,0.885847996396923,0.735962354512843,0.858078580207984
+"AVE and CR","Treatment adherence questionnaire","Monitoring",4,,,,,,,,0.733034248950168,0.916179455681359,0.787188192996897,0.934733746105525
+"AVE and CR","Treatment adherence questionnaire","Followup",4,,,,,,,,0.823933914741428,0.949213911123038,0.875306418174962,0.962708963425575

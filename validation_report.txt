@@ -1,0 +1,25 @@
+T2DM R project validation report
+Generated: 2026-07-15 (archival reconstruction from frozen CSV outputs because Rscript was unavailable in this environment)
+
+Overall status: PASS
+
+PASS | N | observed=232 | expected=232
+PASS | Table 4 R-squared | observed=0.775168987977251 | expected=0.775 | tolerance=0.001
+PASS | Table 4 adjusted R-squared | observed=0.751502565659067 | expected=0.752 | tolerance=0.001
+PASS | Table 4 F statistic | observed=32.7539573812832 | expected=32.754 | tolerance=0.001
+PASS | Table 4 numerator df | observed=22 | expected=22
+PASS | Table 4 denominator df | observed=209 | expected=209
+PASS | S3 F statistic | observed=34.4094454250678 | expected=34.409 | tolerance=0.001
+PASS | S3 numerator df | observed=21 | expected=21
+PASS | S3 denominator df | observed=210 | expected=210
+PASS | S4 events | observed=152 | expected=152
+PASS | S4 non-events | observed=80 | expected=80
+PASS | S4 McFadden R-squared | observed=0.701328465126836 | expected=0.701 | tolerance=0.001
+PASS | S4 LR chi-square | observed=209.628621547444 | expected=209.629 | tolerance=0.001
+PASS | S4 AIC | observed=109.273579020634 | expected=109.274 | tolerance=0.001
+PASS | Primary linear model direction: Availability bias | observed=B=-0.98495916; p=0.027119901 | expected=negative; p<0.05
+PASS | Primary linear model direction: Overconfidence | observed=B=-1.0711007; p=0.0090249658 | expected=negative; p<0.05
+PASS | Primary linear model direction: Time preference | observed=B=-2.3952948; p=6.0049237e-08 | expected=negative; p<0.05
+PASS | Primary linear model direction: Social preference | observed=B=1.6900489; p=0.00012426352 | expected=positive; p<0.05
+PASS | Primary linear model direction: Representativeness bias | observed=B=-0.74209866; p=0.066106165 | expected=not statistically significant
+PASS | Primary linear model direction: Risk preference | observed=B=-0.082321293; p=0.67357834 | expected=not statistically significant

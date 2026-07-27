@@ -1,0 +1,19 @@
+﻿"diagnostic","value"
+"N",232
+"Residual df",209
+"Durbin-Watson statistic",1.80632928051858
+"Maximum coefficient-level VIF",4.63650962216717
+"Condition number",6.45977378367054
+"Maximum absolute standardized residual",2.71638315523512
+"Maximum absolute studentized residual",2.7590179829211
+"Maximum Cook's distance",0.0559252286737955
+"Maximum leverage",0.207967011293353
+"Cases with Cook's distance > 4/N",18
+"Cases with |standardized residual| > 3",0
+"Breusch-Pagan statistic",28.8922130648996
+"Breusch-Pagan df",22
+"Breusch-Pagan p value",0.147963996011021
+"Ramsey RESET statistic",3.28274534366823
+"Ramsey RESET numerator df",2
+"Ramsey RESET denominator df",207
+"Ramsey RESET p value",0.0394879142325829

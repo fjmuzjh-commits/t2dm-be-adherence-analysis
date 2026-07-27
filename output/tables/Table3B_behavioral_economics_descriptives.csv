@@ -1,0 +1,7 @@
+﻿"variable","raw_variable","N","missing","mean","SD","minimum","maximum","theoretical_range","mean_SD","observed_range"
+"Representativeness bias","representativeness_mean",232,0,2.45402298850575,0.990475616337519,1,4.33333333333333,"1-5","2.45 ± 0.99","1.00-4.33"
+"Availability bias","availability_mean",232,0,2.39080459770115,0.990843953603407,1,5,"1-5","2.39 ± 0.99","1.00-5.00"
+"Overconfidence","overconfidence_mean",232,0,2.41954022988506,1.06915356707346,1,5,"1-5","2.42 ± 1.07","1.00-5.00"
+"Time preference","time_preference_mean",232,0,2.60632183908046,1.27022295477828,1,5,"1-5","2.61 ± 1.27","1.00-5.00"
+"Social preference","social_preference_mean",232,0,3.4367816091954,0.916854938664789,1.33333333333333,5,"1-5","3.44 ± 0.92","1.33-5.00"
+"Risk preference","risk_preference_mean",232,0,2.6573275862069,1.55352906878095,1,5,"1-5","2.66 ± 1.55","1.00-5.00"

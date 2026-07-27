@@ -1,0 +1,48 @@
+
+Call:
+lm(formula = full_category_formula, data = dat)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-11.1813  -2.6308  -0.6022   2.6092  10.1630 
+
+Coefficients:
+                                                   Estimate Std. Error t value             Pr(>|t|)    
+(Intercept)                                       46.176787   3.466265  13.322 < 0.0000000000000002 ***
+representativeness_mean                           -0.785726   0.404931  -1.940             0.053731 .  
+availability_mean                                 -0.884617   0.446885  -1.980             0.049122 *  
+overconfidence_mean                               -1.100642   0.408474  -2.695             0.007645 ** 
+time_preference_mean                              -2.237650   0.439081  -5.096          0.000000797 ***
+social_preference_mean                             1.846495   0.435896   4.236          0.000034618 ***
+risk_preference_mean                               0.006247   0.197535   0.032             0.974802    
+age_group_f45-59 years                             1.480414   1.707549   0.867             0.386986    
+age_group_f>=60 years                              3.391830   1.894773   1.790             0.074943 .  
+residence_fUrban                                   0.371459   0.926448   0.401             0.688883    
+smoking_fNever smoker                              0.220496   0.913083   0.241             0.809425    
+smoking_fFormer smoker                             0.614488   1.144213   0.537             0.591834    
+alcohol_fNon-drinker                               0.098376   0.946283   0.104             0.917304    
+alcohol_fFormer drinker                           -1.308623   1.266839  -1.033             0.302854    
+occupation_fEmployed                              -3.754363   1.299082  -2.890             0.004275 ** 
+occupation_fSelf-employed                         -3.460431   1.202632  -2.877             0.004443 ** 
+occupation_fUnemployed                            -1.613674   1.177639  -1.370             0.172134    
+living_fLiving with spouse and children            2.120726   1.283409   1.652             0.100011    
+living_fLiving with spouse                         2.609438   1.425554   1.830             0.068660 .  
+living_fLiving with children                       1.394372   2.058655   0.677             0.498981    
+education_fJunior high school                     -1.090221   1.054363  -1.034             0.302374    
+education_fHigh school/technical secondary school -0.393475   1.026575  -0.383             0.701910    
+education_fCollege or above                       -0.713504   1.214441  -0.588             0.557516    
+income_f3000-4999                                  3.065791   0.909881   3.369             0.000903 ***
+income_f5000-7999                                  3.194307   1.084147   2.946             0.003595 ** 
+income_f>=8000                                     4.318149   1.252873   3.447             0.000691 ***
+insulin_fNo                                       -1.040353   0.630161  -1.651             0.100314    
+duration_f6-10 years                              -1.219314   0.912041  -1.337             0.182764    
+duration_f11-15 years                             -2.273515   1.003290  -2.266             0.024513 *  
+duration_f16-20 years                             -3.655288   1.304496  -2.802             0.005574 ** 
+duration_f>20 years                               -1.259738   1.171429  -1.075             0.283491    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.305 on 201 degrees of freedom
+Multiple R-squared:  0.7876,	Adjusted R-squared:  0.7559 
+F-statistic: 24.84 on 30 and 201 DF,  p-value: < 0.00000000000000022
+

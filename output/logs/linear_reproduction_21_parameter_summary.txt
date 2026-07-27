@@ -1,0 +1,39 @@
+
+Call:
+lm(formula = repro_formula, data = dat)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-10.8169  -2.7434  -0.6413   2.7953  10.9579 
+
+Coefficients:
+                                        Estimate Std. Error t value             Pr(>|t|)    
+(Intercept)                             45.98154    3.77600  12.177 < 0.0000000000000002 ***
+representativeness_mean                 -0.73304    0.40074  -1.829             0.068785 .  
+availability_mean                       -0.99382    0.44160  -2.251             0.025453 *  
+overconfidence_mean                     -1.08475    0.40501  -2.678             0.007984 ** 
+time_preference_mean                    -2.36924    0.42291  -5.602         0.0000000659 ***
+social_preference_mean                   1.69449    0.43136   3.928             0.000116 ***
+risk_preference_mean                    -0.08347    0.19482  -0.428             0.668756    
+age_group_trend                          1.33004    0.78156   1.702             0.090279 .  
+smoking_fNever smoker                   -0.44364    0.88301  -0.502             0.615899    
+smoking_fFormer smoker                   0.36715    1.13586   0.323             0.746837    
+alcohol_fNon-drinker                     0.47914    0.90644   0.529             0.597640    
+alcohol_fFormer drinker                 -1.27921    1.22804  -1.042             0.298766    
+occupation_fEmployed                    -4.15643    1.19964  -3.465             0.000643 ***
+occupation_fSelf-employed               -3.95697    1.11831  -3.538             0.000496 ***
+occupation_fUnemployed                  -1.76392    1.09420  -1.612             0.108448    
+living_fLiving with spouse and children  1.96061    1.26133   1.554             0.121595    
+living_fLiving with spouse               2.12811    1.36406   1.560             0.120235    
+living_fLiving with children             0.89305    2.01602   0.443             0.658239    
+education_trend                         -0.02300    0.38099  -0.060             0.951922    
+income_trend                             1.34624    0.36793   3.659             0.000320 ***
+insulin_fNo                             -1.03344    0.62815  -1.645             0.101420    
+duration_trend                          -0.39702    0.26714  -1.486             0.138732    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.336 on 210 degrees of freedom
+Multiple R-squared:  0.7748,	Adjusted R-squared:  0.7523 
+F-statistic: 34.41 on 21 and 210 DF,  p-value: < 0.00000000000000022
+

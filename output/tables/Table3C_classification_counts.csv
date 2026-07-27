@@ -1,0 +1,6 @@
+﻿"variable","raw_variable","category","n","percent","n_percent"
+"Treatment adherence category","adherence_good_ge40","<40",80,34.4827586206897,"80 (34.5)"
+"Treatment adherence category","adherence_good_ge40",">=40",152,65.5172413793103,"152 (65.5)"
+"Framing-effect category","framing_category","No apparent framing effect (RP1=RP2)",112,48.2758620689655,"112 (48.3)"
+"Framing-effect category","framing_category","Greater risk preference under gain frame (RP1>RP2)",56,24.1379310344828,"56 (24.1)"
+"Framing-effect category","framing_category","Greater risk preference under loss frame (RP1<RP2)",64,27.5862068965517,"64 (27.6)"

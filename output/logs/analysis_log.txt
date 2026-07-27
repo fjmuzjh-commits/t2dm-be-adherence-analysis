@@ -1,0 +1,19 @@
+[2026-07-15 10:13:05] Analysis started. 
+[2026-07-15 10:13:05] R packages loaded. 
+[2026-07-15 10:13:05] CSV imported:  232  rows and  79  columns. 
+[2026-07-15 10:13:05] Data quality control passed. 
+[2026-07-15 10:13:05] Descriptive tables completed. 
+[2026-07-15 10:13:05] Reliability, KMO, and Bartlett tests completed. 
+[2026-07-15 10:13:05] Fitting behavioral economics six-factor WLSMV CFA. 
+[2026-07-15 10:13:06] Fitting adherence five-factor WLSMV CFA. 
+[2026-07-15 10:13:07] Fitting adherence one-factor WLSMV CFA. 
+[2026-07-15 10:13:10] WLSMV CFA completed. 
+[2026-07-15 10:13:10] Welch univariable analysis completed. 
+[2026-07-15 10:13:10] Pearson correlation analysis completed. 
+[2026-07-15 10:13:10] Fitting primary 22-parameter linear model including residence. 
+[2026-07-15 10:13:10] Fitting full-category sensitivity model for ordinal covariates. 
+[2026-07-15 10:13:11] Fitting 21-parameter reproduction model excluding residence. 
+[2026-07-15 10:13:11] Fitting logistic sensitivity analysis. 
+[2026-07-15 10:13:11] Regression models completed. 
+[2026-07-15 10:13:11] All required CSV files, diagnostics, model objects, logs, and Excel workbook exported. 
+[2026-07-15 10:13:11] Analysis completed successfully. 
