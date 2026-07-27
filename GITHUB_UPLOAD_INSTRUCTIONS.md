@@ -45,8 +45,8 @@ git push -u origin main
 
 Data availability statement:
 
-The R analysis code, aggregate output tables, diagnostics, and reproducibility documentation are available at: https://github.com/<owner>/t2dm-be-adherence-analysis. Individual-level survey data are not publicly available because they contain participant-level clinical and questionnaire information; de-identified data may be made available from the corresponding author upon reasonable request and subject to institutional approval.
+The R analysis code, aggregate output tables, diagnostics, and reproducibility documentation are available at: https://github.com/fjmuzjh-commits/t2dm-be-adherence-analysis. Individual-level survey data are not publicly available because they contain participant-level clinical and questionnaire information; de-identified data may be made available from the corresponding author upon reasonable request and subject to institutional approval.
 
 Methods reproducibility sentence:
 
-All statistical analyses were conducted in R. The reproducible R scripts and aggregate validation materials are available in the public GitHub repository: https://github.com/<owner>/t2dm-be-adherence-analysis.
+All statistical analyses were conducted in R. The reproducible R scripts and aggregate validation materials are available in the public GitHub repository: https://github.com/fjmuzjh-commits/t2dm-be-adherence-analysis.

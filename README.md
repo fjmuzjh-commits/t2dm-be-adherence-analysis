@@ -74,4 +74,4 @@ The following files are intentionally not included:
 
 Suggested manuscript wording:
 
-> The R analysis code and aggregate reproducibility materials are available at: [GitHub URL to be inserted after repository creation]. Individual-level survey data are not publicly available because they contain participant-level research data; they may be made available from the corresponding author upon reasonable request and after approval under applicable ethics and data-governance requirements.
+> The R analysis code and aggregate reproducibility materials are available at: https://github.com/fjmuzjh-commits/t2dm-be-adherence-analysis. Individual-level survey data are not publicly available because they contain participant-level research data; they may be made available from the corresponding author upon reasonable request and after approval under applicable ethics and data-governance requirements.
